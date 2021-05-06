@@ -2,7 +2,8 @@
   "name": "aframe-vimeo-component",
   "version": "0.2.0",
   "engines": {
-    "node": ">=0.12"
+    "node": ">=0.12",
+    "yarn": "1.x"
   },
   "dependencies": {
     "express": "^4.16.2",
